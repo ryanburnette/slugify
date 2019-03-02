@@ -1,0 +1,14 @@
+{
+  "name": "@ryanburnette/slugify",
+  "version": "1.0.0",
+  "description": "Slugify a string of text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ryan Burnette <ryan.burnette@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
