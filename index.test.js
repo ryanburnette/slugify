@@ -1,4 +1,6 @@
-var slugify = require('./index.js');
+'use strict';
+
+var slugify = require('./');
 
 test('sanity',function () {
   expect(slugify).toBeInstanceOf(Function);
